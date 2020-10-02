@@ -60,10 +60,7 @@ backward3 = False
 walk_count3x = 0
 walk_count3y = 0
 
-# Maze
-maze_walls_color = (255, 255, 255)
-maze_width = 5
-maze_origin = (1, 1)
+
 
 
 def redraw_game_window():
